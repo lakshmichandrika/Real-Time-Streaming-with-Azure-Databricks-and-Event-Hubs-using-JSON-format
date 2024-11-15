@@ -42,13 +42,13 @@ Databricks Workspace (Unity Catalog enabled)
 
 ![image](https://github.com/user-attachments/assets/f30088ff-702f-4575-9e49-3d69533dab4d)
 
-5.click on cluster-go to libraries-install new-maven-search packages
+5.click on cluster-go to libraries-install new-maven-search packages -install
 
 ![image](https://github.com/user-attachments/assets/49f80cc9-efdc-4463-8e63-31998569864e)
 
 ![image](https://github.com/user-attachments/assets/380bebc7-eb52-459e-9842-d4bc3201432c)
 
-
+i.e,Maven Library installed on Compute Cluster: com.microsoft.azure:azure-eventhubs-spark_2.12:2.3.22
 
 
 
