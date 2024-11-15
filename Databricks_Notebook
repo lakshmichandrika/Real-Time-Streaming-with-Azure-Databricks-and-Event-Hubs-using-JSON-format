@@ -1,1 +1,28 @@
+1.Importing the libraries.
 
+from pyspark.sql.functions import *
+
+from pyspark.sql.types import *
+
+2.checks whether alraedy present or not.
+
+try:
+    spark.sql("create catalog streaming;")
+except:
+    print('check if catalog already exists')
+
+try:
+    spark.sql("create schema streaming.bronze;")
+except:
+    print('check if bronze schema already exists')
+
+try:
+    spark.sql("create schema streaming.silver")
+except:
+    print('check if silver schema already exists')
+
+try:
+    spark.sql("create schema streaming.gold;")
+except:
+    print('check if gold schema already exists')
+     
