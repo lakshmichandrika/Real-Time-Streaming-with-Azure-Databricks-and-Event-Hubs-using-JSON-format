@@ -26,7 +26,7 @@ Prerequisites
 
 process:
 
-1.create an event bub namespace-event hub-shared access policy
+1.create an event bub namespace-event hub-shared access policy with listen permission
 
 2.in event hub-features-generate data(preview)-copy the input  json data-send
 
