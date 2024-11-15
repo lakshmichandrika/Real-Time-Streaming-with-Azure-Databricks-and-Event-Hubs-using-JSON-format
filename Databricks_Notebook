@@ -25,8 +25,16 @@ try:
 except:
     print('check if gold schema already exists')
 
-3.
+3.Bronze Layer
+# Config
+# Replace with your Event Hub name and policy connection string.
+connectionString = "Paste connection string here"
+eventHubName = "Type event hub name here"
 
+ehConf = {
+  'eventhubs.connectionString' : sc._jvm.org.apache.spark.eventhubs.EventHubsUtils.encrypt(connectionString),
+  'eventhubs.eventHubName': eventHubName
+}
 
 
 
