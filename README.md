@@ -52,19 +52,20 @@ i.e,Maven Library installed on Compute Cluster: com.microsoft.azure:azure-eventh
 
 6.config set-up for event-hubs in databricks
 ![alt text](images/image.png)
+
 7.checkpointLocation path is present in DBFS
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 
 8.if DBFS is not visible,then click on mail-advance-workspace-check dbfs is set on.
-![alt text](images\image-2.png)
+![alt text](images/image-2.png)
 
 Bronze-silver Transformation
 
 9.we can see the body is in string format
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 can be converted to readable format
-![alt text](images\image-4.png)
+![alt text](images/image-4.png)
 converted into json object
-![alt text](images\image-5.png)
-![alt text](images\image-6.png)
-![alt text](images\image-7.png)
+![alt text](images/image-5.png)
+![alt text](images/image-6.png)
+![alt text](images/image-7.png)
