@@ -69,3 +69,39 @@ converted into json object
 ![alt text](images/image-5.png)
 ![alt text](images/image-6.png)
 ![alt text](images/image-7.png)
+
+10.In databricks go to Partner connect-search poer bi-connect to cluster-download -go to downloads and open- in azure active directory-sign in-u can see the catalog you created in databricks-select silver table & load
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
