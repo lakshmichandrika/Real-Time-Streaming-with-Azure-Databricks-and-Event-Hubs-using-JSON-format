@@ -51,7 +51,7 @@ Databricks Workspace (Unity Catalog enabled)
 i.e,Maven Library installed on Compute Cluster: com.microsoft.azure:azure-eventhubs-spark_2.12:2.3.22
 
 6.config set-up for event-hubs in databricks
-![alt text](images\image.png)
+![alt text](images/image.png)
 7.checkpointLocation path is present in DBFS
 ![alt text](images\image-1.png)
 
